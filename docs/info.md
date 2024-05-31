@@ -17,5 +17,5 @@ Switchs are used to pick the ASCII character
 
 ## External hardware
 
-Audrino
+arduino,7-seg display, 8 switch 
 
